@@ -2,22 +2,15 @@
   {
     "Item": "A1000",
     "ItemName": "Iphone 15",
-    "Price": 1200.0,
+    "Price": 1200,
     "Currency": "USD",
     "Quantity": 1
   },
   {
     "Item": "A1001",
     "ItemName": "Iphone 16",
-    "Price": 1500.0,
+    "Price": 1500,
     "Currency": "USD",
     "Quantity": 1
-  },
-  {
-    "Item": "quandoan",
-    "ItemName": "quan",
-    "Price": 123.0,
-    "Currency": "1231231",
-    "Quantity": 123
   }
 ]
